@@ -1,0 +1,30 @@
+ 
+general.import = [
+  # uncomment the flavour you want below:
+  # "~/.config/alacritty/catppuccin-latte.toml"
+  # "~/.config/alacritty/catppuccin-frappe.toml"
+    "~/.config/alacritty/catppuccin-macchiato.toml"
+  # "~/.config/alacritty/catppuccin-mocha.toml"
+]
+[window]
+padding = {x = 5, y = 5}
+opacity = 1
+blur = true
+decorations = "Full"
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[cursor]
+	[cursor.style]
+		shape = "Underline"
+		blinking = "Always"
+[font]
+size = 9.5
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Regular"
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+style = "Bold"
