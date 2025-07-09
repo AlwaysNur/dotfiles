@@ -11,4 +11,4 @@ First of all I want to thank [Catppuccin](https://catppuccin.com) for the color 
 | Picom     | `.config/picom/config.conf`        | Me                                              |
 | Rofi      | `.config/rofi`                     | [adi1090x](https://github.com/adi1090x/rofi),Me |
 | Alacritty | `.config/alacritty/alacritty.toml` | Me                                              |
-| Polybar   | `.config/polybar/config.ini`       | [Lucas Watt](https://github.com/lucaswatt),Me   |
+| Polybar   | `.config/polybar/config.ini`       | Me   |
