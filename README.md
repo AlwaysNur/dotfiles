@@ -1,5 +1,5 @@
 # dotfiles
-
+![img](./assets/1.png)
 
 My silly little dots.
 
