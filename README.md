@@ -3,7 +3,7 @@
 
 My silly little dots.
 
-First of all I want to thank [Catppuccin](https://catppuccin.com) for the color scheme I use it for pritty much everything!
+First of all I want to thank [Catppuccin](https://catppuccin.com) for the color scheme I use it for pretty much everything!
 
 | APP       | WHERE                              | THANKS TO                                       |
 |-----------|------------------------------------|-------------------------------------------------|
